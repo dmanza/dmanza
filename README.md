@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @dmanza
-- 👀 I’m interested in IoT
-- 🌱 I’m currently learning Docker
-- 💞️ I’m looking to collaborate on projects of Home Automation and Smart Farming
-- 📫 How to reach me ...
+# Hi, I'm David Manzanares 👋
 
-<!---
-dmanza/dmanza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Solution Architect with a focus on enterprise integration, pricing systems, and cloud-native transformation programmes.
+
+## What I work on
+
+- Designing integration architectures across SaaS, iPaaS, and on-prem landscapes
+- C4 model documentation and architecture-as-code
+- CPQ, CRM, and TMS integration patterns
+- Bridging business requirements and technical design in complex transformation programmes
+
+## Interests
+
+- Architecture documentation and diagramming as code
+- AI-assisted software development and documentation workflows
+- IoT and Home Automation
+
+## How to reach me
+
+- LinkedIn: [david-manzanares-munoz](https://www.linkedin.com/in/david-manzanares-munoz/)
